@@ -9,7 +9,7 @@ DELIMITER = "##########"
 
 
 def convert_to_csv(input_file):
-    pattern = re.compile(r'^.*:.*$')
+    pattern = re.compile(r'^.*:.+$')
 
     csv_lines = []
     with open(input_file, 'r') as f:
