@@ -2,3 +2,5 @@
 notebooks/.ipynb_checkpoints
 .idea
 data/*.zip
+data/*.csv
+data/*.txt
