@@ -12,6 +12,7 @@ import nltk
 def sl_tokenizer():
     # 1. sentence tokenization
     # 2. word level tokenization
+    pass
 
 
 # Normalization
@@ -23,12 +24,16 @@ def sl_normalization():
     # 5. stemming
     # 6. text expansion (don't ==> do not)
     # 7. synonyms
+    pass
 
-def sl_ngrams(text, n_gram = 2):
+def sl_ngrams(n_gram = 2):
     # return the n-grams
+    pass
 
 def sl_tags(text):
     # return pos tags for each word
+    pass
 
 def sl_language(text):
     # detect language
+    pass
