@@ -1,0 +1,3 @@
+"""
+generate word embeddings
+"""

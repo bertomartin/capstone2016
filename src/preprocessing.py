@@ -22,8 +22,9 @@ def sl_normalization():
     # 3. stop-word removal (optional)
     # 4. lemmatization
     # 5. stemming
-    # 6. text expansion (don't ==> do not)
+    # 6. text expansion/abbreviation expansion (don't ==> do not)
     # 7. synonyms
+    # 8. convert numbers to words
     pass
 
 def sl_ngrams(n_gram = 2):
