@@ -76,24 +76,5 @@ def stemm(tokens):
 
 # ================= Vectorization =====================
 
-def vectorize_corpus(corpus, kind='BoW'):
-    # 1. tokenize
-    pass
-# ----------------- Vectorization ---------------------
 
 
-def sl_ngrams(n_gram = 2):
-    # return the n-grams
-    # 1. tokenize
-    pass
-
-
-def sl_tags(text):
-    # return pos tags for each word
-    # 1. tokenize
-    pass
-
-
-def sl_language(text):
-    # detect language
-    pass
