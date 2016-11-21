@@ -3,4 +3,10 @@ notebooks/.ipynb_checkpoints
 .idea
 data/*.zip
 data/*.csv
-data/*.txt
+data/*.txtnotebooks/processed_song_lyrics.csv
+notebooks/processed_song_lyrics.txt
+notebooks/processed_songs_dictionary.dict
+notebooks/song_list_bow.mm
+notebooks/song_list_bow.mm.index
+notebooks/songs_lda_model
+notebooks/songs_lda_model.state
