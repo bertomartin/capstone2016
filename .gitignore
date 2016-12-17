@@ -2,6 +2,7 @@
 notebooks/.ipynb_checkpoints
 .idea
 data
+data/*
 notebooks/processed_song_lyrics.txt
 notebooks/processed_songs_dictionary.dict
 notebooks/song_list_bow.mm
