@@ -3,6 +3,7 @@ notebooks/.ipynb_checkpoints
 .idea
 data
 data/*
+data/cleaned_lyrics_year/*.csv
 notebooks/processed_song_lyrics.txt
 notebooks/processed_songs_dictionary.dict
 notebooks/song_list_bow.mm
