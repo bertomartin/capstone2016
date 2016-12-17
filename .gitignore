@@ -1,9 +1,7 @@
 .DS_Store
 notebooks/.ipynb_checkpoints
 .idea
-data/*.zip
-data/*.csv
-data/*.txtnotebooks/processed_song_lyrics.csv
+data
 notebooks/processed_song_lyrics.txt
 notebooks/processed_songs_dictionary.dict
 notebooks/song_list_bow.mm
